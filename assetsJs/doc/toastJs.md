@@ -1,5 +1,5 @@
-#Biblioteca toast.js
->como utilizar a biblioteca toast.js
+# Biblioteca toast.js
+> como utilizar a biblioteca toast.js
  
     <script>
         toast("Mensagem"); //exibe uma mensagem (tempo e cor padrão)

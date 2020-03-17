@@ -1,5 +1,5 @@
-#Biblioteca indexedDB.js
->indexedDB.js requer a biblioteca idb.js para operar, veja como utilizar a biblioteca indexedDB.js
+# Biblioteca indexedDB.js
+> indexedDB.js requer a biblioteca idb.js para operar, veja como utilizar a biblioteca indexedDB.js
 
     todas as funções disponibilizadas pela indexedDB.js retornam uma Promise
 # 
